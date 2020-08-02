@@ -1,6 +1,6 @@
 baseURL       = "https://albacomenge.github.io/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Alba Comenge | Portfolio"
 theme         = "roxo"
 summarylength = 25
 
@@ -8,17 +8,13 @@ summarylength = 25
 [menu]
   # Navbar Menus
   [[menu.nav]]
-    name    = "Home"
-    url     = ""
+    name    = "Work"
+    url     = "/"
     weight  = 1
   [[menu.nav]]
-    name    = "About"
+    name    = "Contact"
     url     = "about"
     weight  = 2
-  [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
-    weight  = 3
 
 # Site Params
 [params]
@@ -43,8 +39,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
+    heading               = "Hi! I am Alba. I am a senior designer based in Dublin. Ask me about UX/UI and motion graphics."
+    tagline               = "Scroll down to see my work"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
@@ -52,13 +48,13 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = ""
+    subtitle  = ""
 
   [params.call_to_action]
-    enable              = true
+    enable              = false
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
+    title               = "Remove this section"
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
     secondary_button    = "Not Convinced"
@@ -88,19 +84,19 @@ summarylength = 25
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
-        title   = "Social Media"
+        title   = "Let's work together :)"
         [[params.footer.social.link]]
           name = "Medium"
-          url  = "#"
+          url  = "https://medium.com/@alba.comenge"
         [[params.footer.social.link]]
           name = "Behance"
-          url  = "#"
+          url  = "https://www.behance.net/albacomenge"
         [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
+          name = "LinkedIn"
+          url  = "https://www.linkedin.com/in/albacomenge/"
         [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+          name = "Twitter"
+          url  = "https://twitter.com/albacomenge"
       # Footer Service
       [params.footer.service]
         title       = "We help brands:"

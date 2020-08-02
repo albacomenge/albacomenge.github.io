@@ -1,29 +1,33 @@
 ---
-title: "KIO-TAPE BRAND"
+title: "Comyuno: matchmaking tool and re-design"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/project-thumb-four.jpg"
-category: ["PRODUCT LABEL"]
+category: ["UX UI | 15 days sprint"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+UX UI  |   15 days sprint   |   with Teresa Prosch
 
 
-The watch has the following features:
+PROBLEM
+This is the 2 weeks final project I worked on with my team mate Teresa Prosch as part of the Ironhack course.
 
-Time and date displayed on the screen. Current time is in large numbers, date is in small numbers above it.
+We worked on Comyuno, a social network web app that connects people based on a specific location, a community or an event. Its stakeholder wants to focus on networking events and users find the interface of the app confusing to navigate plus the iOS users can't get notifications.
 
-Light: Pressing the light button on the side of the watch activates a light while the button is pressed. Pressing and holding that button for 3 seconds turns on the light and keeps it on, until the button is held again for 3 seconds or up to 2 hours. After 2 hours, it will automatically turn off.
+SOLUTION
+We worked on a native iOS app for events. We re-designed the UI to make the app more intuitive for users and also to differentiate it from the competitors. We also integrated a matchmaking feature to make the networking in professional events less stressful for attendees.
 
-Alarm. A daily alarm may be set for a given time. The alarm may be enabled or disabled. When the alarm is enabled and the alarm time is reached, the watch will beep fast for 5 seconds, then slowly for 30 seconds, then fast for another 5 seconds. Pressing any button stops the alarm sound (in addition to performing its normal function).
+My role in this project was to work all the way from the early stages of research of the design thinking process until fine-tuning the animations of the final deliverable, an interactive hi-fi prototype.
 
-Timer. Timer mode shows a count-up timer that starts at 00:00. When the timer is started, it counts up. Pressing the start/stop button will pause the timer, pressing it again continues counting up. Pressing and holding the button for 3 seconds resets the timer to 00:00 and stops counting.
+DESIGN PROCESS
 
-Mystery answer. After entering this mode, the screen initially displays “ask now”. The user may ask a yes-or-no question aloud and press the start/stop button, this will display a randomly selected answer that is one of the following: “yeah”, “yeah right”, “no”, “no doubt”, “keep trying”, “keep dreaming”. Whenever the display has more than one word, only one word is displayed for 2 seconds, then the other word is displayed for 2 seconds, alternately. The answer is displayed until the user leaves this mode, or he/she presses start/stop again for a new answer. 
+PROTOTYPE
 
+OUTCOME
+This project was one of the three finalists of our UX/UI course and we presented it at the general public in the Hackshow held in Factory Berlin.
 
-Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
+Our next steps would be to test and work on the accessibly of the app.
+This was my first time working with Figma. It was a great tool for collaboration and for creating interactions quickly. For that reason, we could do multiple iterations on the hi-fi prototype.
 
-The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
-
+SCREENS

@@ -1,13 +1,14 @@
 ---
-title: "KIO TAPE"
-date: 2019-12-23T15:44:46+06:00
+title: "Comyuno: matchmaking tool and re-design"
+date: 20120-03-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/project-thumb-four.jpg"
-category: ["PRODUCT LABEL"]
+category: ["UX UI | 14 days sprint"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
-The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
+Comyuno: matchmaking tool and re-design
+UX UI  |   15 days sprint   |   with Teresa Prosch
 
 
 The watch has the following features:
